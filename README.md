@@ -1,5 +1,5 @@
 # COVID-19 Fake News Classification with NLP & BERT
-*This work is part of the practical project for Master's Thesis (GEIAL536-Ma) at the University of Miskolc (2021/2022).*
+*This work is part of the practical project for my Master's Thesis (GEIAL536-Ma) at the University of Miskolc (2021/2022).*
 
 ## About
 Datasets used in this work can be found here:
